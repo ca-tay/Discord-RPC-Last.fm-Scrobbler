@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_LASTFM_API_KEY",
+  "secret": "YOUR_LASTFM_SHARED_SECRET",
+  "session_key": null
+}
