@@ -25,7 +25,7 @@ This runs continuously and keeps Discord + Last.fm perfectly in sync with Spotif
 
 * Real-time Spotify tracking via **MPRIS**
 * Automatic Last.fm authentication & session saving
-* Spotify album art fix (`i.scdn.co`)
+* Spotify album art fix
 * Handles pause/stop cleanly
 * Auto re-auth if Last.fm session expires
 
